@@ -39,6 +39,7 @@ h2{
 	text-align: center;
 	width:100%;
 	justify-content: center;
+	font-size:2em;
 } 
 
 h1{
@@ -46,6 +47,7 @@ h1{
 	text-align: center;
 	width:100%;
 	justify-content: center;
+	font-size: 3em;
 } 
 
 #arch{
