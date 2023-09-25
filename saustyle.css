@@ -1,3 +1,9 @@
+html, body {
+    cursor: url("cursor.png"), default;
+    height:100%;
+}
+
+
 #tit{
 	display:flex;
 	text-align: center;
@@ -26,6 +32,7 @@
 body{
 	background:url(spinnysaus.gif) repeat;
 	background-color:#f69260;
+	height:100%;
 }
 h2{
 	display:flex;
@@ -40,3 +47,19 @@ h1{
 	width:100%;
 	justify-content: center;
 } 
+
+#arch{
+	display:flex;
+	text-align: center;
+	width:100%;
+	justify-content: center;
+}
+img{
+	max-width:100%;
+	height:auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
