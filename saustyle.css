@@ -1,8 +1,12 @@
-html *, body {
+html, body {
     cursor: url("cursor.png"), default;
     height:100%;
+}
+
+html* {
     font-family: "Comic Sans MS";
 }
+
 
 #indexlogo{
 	width:30%;
