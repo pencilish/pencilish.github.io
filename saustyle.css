@@ -4,7 +4,7 @@ html, body {
 }
 
 html* {
-    font-family: "Comic Sans MS", cursive !important;
+    font-family: "Comic Sans MS", "Comic Sans", cursive !important;
 }
 
 
@@ -47,7 +47,7 @@ h2{
 	width:100%;
 	justify-content: center;
 	font-size:2em;
-	font-family: "Comic Sans MS", cursive !important;
+	font-family: "Comic Sans MS", "Comic Sans", cursive !important;
 } 
 
 h1{
@@ -56,7 +56,7 @@ h1{
 	width:100%;
 	justify-content: center;
 	font-size: 3em;
-	font-family: "Comic Sans MS", cursive !important;
+	font-family: "Comic Sans MS", "Comic Sans", cursive !important;
 } 
 
 #arch{
